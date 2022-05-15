@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x94E39ACe3C53fcf485AdB871623a87a8D394B2E7",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x94e39ace3c53fcf485adb871623a87a8d394b2e7#code",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Skoolyard Boys",
+  "SYMBOL": "SYB",
+  "MAX_SUPPLY": 3333,
+  "GAS_LIMIT": 210000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fablabs/",
+  "Dev": "ReservedSnow",
+  "LINKTREE": "https://linktr.ee/reservedsnow",
+  "WLENABLED": true,
+  "PRICE": 75000000000000000,
+  "WL_PRICE": 70000000000000000
+}
